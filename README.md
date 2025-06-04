@@ -1,6 +1,6 @@
 # DataScience-Notes
 
-/DataManipulationWithPandas
+## /DataManipulationWithPandas
 - Ch1: Data Manipulation
 - Ch2: Summary Statstics
 - Ch3: Handling indexs
